@@ -16,3 +16,5 @@ public class Copa_Piston extends JFrame{
  JPanel cont;
  JLabel titulo,meta;
  Cronometro c=new Cronometro();
+
+//si se guardan cambios?
